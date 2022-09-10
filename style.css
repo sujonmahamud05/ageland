@@ -99,7 +99,7 @@ footer{
 }
 
 .footer-right{
-  float: right;
+  /* float: right; */
   display: inline-block;
 }
 .footer-right p{
