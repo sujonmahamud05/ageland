@@ -55,12 +55,12 @@ nav{
   flex: 0 0 auto;
   max-width: 392px;
 }
-.blog-item h2,span{
+.blog-item h2,p{
   color: #224259;
   line-height: 20px;
 }
 .nav-batton{
-  border: 1px solid ;
+  border: 2px solid ;
   text-decoration: none;
   background-color:#5693BF;
   color: #fff;
@@ -99,14 +99,17 @@ footer{
 }
 
 .footer-right{
-  /* float: right; */
+  float: right;
   display: inline-block;
 }
 .footer-right p{
   display: inline-block;
 
 }
-.footer-right h3,p{
+.footer-right,h3{
+  color: #fff;
+}
+.number{
   color: #fff;
 }
 .footer-left{
